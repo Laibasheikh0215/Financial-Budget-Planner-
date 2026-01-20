@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support, feature requests, or bug reports:
 1. Check existing issues on GitHub
 2. Create a new issue with detailed description
-3. Email: [your-email@example.com]
+3. Email: [sheikh.laiba8019@gmail.com]
 
 ---
 
